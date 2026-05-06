@@ -1,17 +1,17 @@
 const students = [
     {
-        regNo: "101",
-        name: "Arun",
-        marks: 85
+        regNo: "91",
+        name: "Akshay",
+        marks: 90
     },
     {
-        regNo: "102",
-        name: "Priya",
-        marks: 72
+        regNo: "92",
+        name: "Diya",
+        marks: 95
     },
     {
-        regNo: "103",
-        name: "Kumar",
+        regNo: "93",
+        name: "Sara",
         marks: 40
     }
 ];
